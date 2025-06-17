@@ -1,0 +1,50 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    color: darkslategray;
+}
+
+.whyUS{
+    text-align: left;
+    color:  #2f4f4f;
+    font-variant: small-caps;
+    font-style: italic;
+}
+
+button{
+    color: darkgray; 
+    background-color: rgb(50, 50, 58);
+    cursor: pointer;
+    padding: 5px 15px;
+    font-size: 1.2rem; 
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0.5px 0.5px 1px 2px #000000;
+    cursor: not-allowed;
+}
+.google{
+    position: relative;
+}
+img{
+    height: 100px;
+}
+span{
+    position: absolute;
+    top: 5px;
+    left: 8px;
+    color: white;
+
+}
+img{
+    width: 100%;
+    height: auto;
+
+}
+div{
+    overflow-x: visible;
+    border: 1px solid black;
+    height: 200px; 
+    width: 200px;
+    
+}
